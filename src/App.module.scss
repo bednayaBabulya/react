@@ -1,12 +1,9 @@
-$primery: rebeccapurple;
+$primary: rebeccapurple;
 
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
 .layout {
-  padding: 20px;
-  background-color:$primery;
+  background-color: $primary;
+  width: 100vw;
+  min-height: 100vh;
+  padding: 2rem 0;
+  text-align: center;
 }
