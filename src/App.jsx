@@ -1,4 +1,5 @@
 import styles from './App.module.scss'
+import { Details } from './Details'
 
 // const MENU = [
 //   {
@@ -11,14 +12,16 @@ import styles from './App.module.scss'
 //   }
 // ]
 
+// const isAuth = false
+
 export function App() {
   return <div className={styles.layout}>
     <img src='/AtomicHeart_sample.jpg' width={400} />
     {/* {MENU.map(item => 
       <span key={item.link}>{item.name}</span>
     )} */}
-    <h1>First component</h1>
-    <div>Hello, world! </div>
-    <button>Click</button>
+    {/* {isAuth ? 'Авторизирован' : 'Войдите в систему'} */}
+
+    <Details />
   </div>
 }
