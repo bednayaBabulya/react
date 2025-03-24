@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "text": "a title",
+      "id": "c846"
+    },
+    {
+      "id": "eebc",
+      "text": "Hey!\n          Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque sapiente voluptatem at minus ex iusto dignissimos perspiciatis, quos, quas omnis libero, alias fuga fugit? Laudantium ullam ab consequuntur ipsa eos."
+    },
+    {
+      "id": "ff6a",
+      "text": "essdfg<b>sdfg</b>"
+    },
+    {
+      "id": "43b5",
+      "text": "asdfsadf"
+    },
+    {
+      "id": "c446",
+      "text": "asdfsadf a<b>sdfsadf</b>"
+    }
+  ]
+}
